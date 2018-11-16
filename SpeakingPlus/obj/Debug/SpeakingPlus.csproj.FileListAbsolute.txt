@@ -1,0 +1,15 @@
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\SpeakingPlus.exe.config
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\SpeakingPlus.exe
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\SpeakingPlus.pdb
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\DirectShowLib.dll
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\NAudio.dll
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\DirectShowLib.pdb
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\bin\Debug\NAudio.xml
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.FrmRecord.resources
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.Properties.Resources.resources
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.csproj.GenerateResource.Cache
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.exe
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.pdb
+C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.csprojResolveAssemblyReference.cache
