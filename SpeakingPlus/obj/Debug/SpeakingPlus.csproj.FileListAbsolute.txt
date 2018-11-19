@@ -12,4 +12,6 @@ C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingP
 C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.csproj.GenerateResource.Cache
 C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.exe
 C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.pdb
-C:\Users\user.Star\Desktop\project\Standard Coding\15 NOV\SpeakingPlus\SpeakingPlus\obj\Debug\SpeakingPlus.csprojResolveAssemblyReference.cache
+C:\Users\user.Star\Documents\GitHub\SpeakingPlusWFA\SpeakingPlus\bin\Debug\SpeakingPlus.exe.config
+C:\Users\user.Star\Documents\GitHub\SpeakingPlusWFA\SpeakingPlus\obj\Debug\SpeakingPlus.exe
+C:\Users\user.Star\Documents\GitHub\SpeakingPlusWFA\SpeakingPlus\obj\Debug\SpeakingPlus.pdb
